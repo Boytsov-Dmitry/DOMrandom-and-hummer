@@ -1,0 +1,32 @@
+.header-container {
+    display: flex;
+}
+
+.field {
+    cursor: url(https://cdn-icons-png.flaticon.com/128/1240/1240271.png), auto;
+}
+
+.mouseup {
+	cursor: url(https://cdn-icons-png.flaticon.com/128/1240/1240271.png), auto;
+}
+
+.mousedown {
+	cursor: url(https://cdn-icons-png.flaticon.com/128/1104/1104188.png), auto;
+}
+
+.play-cage-full {
+    background-image: url(https://github.com/netology-code/ahj-homeworks/raw/AHJ-50/dom/pic/goblin.png);
+    background-size: 100% 100%;
+}
+
+.play-cage {
+    border: 3px solid black;
+    height: 100px;
+    width: 100px
+}
+
+.general-font {
+    font-family: sans-serif;
+    font-size: 40px;
+    padding: 15px;
+}
