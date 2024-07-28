@@ -7,7 +7,7 @@
     "build": "webpack --mode production",
     "start": "webpack-dev-server --mode development",
     "test": "jest --coverage",
-    "lint": "eslint ."
+    "lint": "eslint"
   },
   "devDependencies": {
     "@babel/cli": "^7.24.8",
